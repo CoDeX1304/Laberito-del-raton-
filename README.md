@@ -1,2 +1,2 @@
-# Laberito-del-raton-
+# Laberinto-del-raton-
 resolucion de la T2
